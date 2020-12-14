@@ -16,8 +16,10 @@
 A web based app that allows users to take notes in a web browser and be able to access past written notes to be edited and or deleted.
     
 ## Installation:
-    
-N/A
+Heroku Deployment: https://desolate-mountain-89750.herokuapp.com/
+GitHub Repository: https://github.com/JonahBCoding/note-take
+Deployed Website: https://jonahbcoding.github.io/note-take/
+
     
 ## Usage:
     
