@@ -17,9 +17,9 @@ A web based app that allows users to take notes in a web browser and be able to 
 ![alt text](https://github.com/JonahBCoding/note-take/blob/master/Screenshot%20(42).png)
     
 ## Installation:
-Heroku Deployment: https://desolate-mountain-89750.herokuapp.com/
-GitHub Repository: https://github.com/JonahBCoding/note-take
-Deployed Website: https://jonahbcoding.github.io/note-take/
+* Heroku Deployment: https://desolate-mountain-89750.herokuapp.com/
+* GitHub Repository: https://github.com/JonahBCoding/note-take
+* Deployed Website: https://jonahbcoding.github.io/note-take/
 
     
 ## Usage:
